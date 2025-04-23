@@ -1,0 +1,32 @@
+baseURL = 'https://your-site.com'
+languageCode = 'en-us'
+title = 'Your Project Name'
+theme = 'ananke'
+
+[params]
+  custom_css = ['css/custom.css']
+
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 2
+
+[[menu.main]]
+  name = 'Team'
+  url = '/team/'
+  weight = 3
+
+[[menu.main]]
+  name = 'Journal'
+  url = '/journal/'
+  weight = 4
+
+[[menu.main]]
+  name = 'Resources'
+  url = '/resources/'
+  weight = 5

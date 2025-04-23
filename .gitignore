@@ -1,0 +1,14 @@
+# Файлы Hugo, которые не нужно сохранять
+/public/
+/resources/_gen/
+/.hugo_build.lock
+/hugo_stats.json
+
+# Системные файлы
+.DS_Store
+*.swp
+*.swo
+
+# Файлы редакторов
+.idea/
+.vscode/
